@@ -20,7 +20,7 @@
 * Kill numbers from states in kill data
 
 **
-Plot Contents:******
+Plot Contents:**
 * Bar Plot
 * Point Plot
 * Joint Plot
@@ -33,4 +33,4 @@ Plot Contents:******
 * Swarm Plot
 * Pair Plot
 * Count Plot
-* 
+
